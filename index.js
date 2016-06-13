@@ -210,7 +210,7 @@ var data={
       entities: require('./minecraft-data/data/pc/1.9/entities'),
       protocol: require('./minecraft-data/data/pc/1.10-pre1/protocol'),
       windows: require('./minecraft-data/data/pc/1.9/windows'),
-      version: require('./minecraft-data/data/pc/1.10-pre1/version')
+      version: require('./minecraft-data/data/pc/1.10/version')
     }
   },
   "pe":{
